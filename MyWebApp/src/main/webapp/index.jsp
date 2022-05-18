@@ -5,6 +5,6 @@
           <meta content="text/html; charset=utf-8" />
     </head>
 <body>
-    <h2> We are testing quality gate in Sonar!!!!</h2>  
+    <h2> Hello this is for testing !!!!</h2>  
 </body>
 </html>
